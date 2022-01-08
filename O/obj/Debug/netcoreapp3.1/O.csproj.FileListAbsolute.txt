@@ -1,0 +1,19 @@
+/Users/allyreid/Desktop/NetCoreSolid/O/obj/Debug/netcoreapp3.1/O.csproj.AssemblyReference.cache
+/Users/allyreid/Desktop/NetCoreSolid/O/obj/Debug/netcoreapp3.1/O.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allyreid/Desktop/NetCoreSolid/O/obj/Debug/netcoreapp3.1/O.AssemblyInfoInputs.cache
+/Users/allyreid/Desktop/NetCoreSolid/O/obj/Debug/netcoreapp3.1/O.AssemblyInfo.cs
+/Users/allyreid/Desktop/NetCoreSolid/O/obj/Debug/netcoreapp3.1/O.csproj.CoreCompileInputs.cache
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\O\bin\Debug\netcoreapp3.1\O.exe
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\O\bin\Debug\netcoreapp3.1\O.deps.json
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\O\bin\Debug\netcoreapp3.1\O.runtimeconfig.json
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\O\bin\Debug\netcoreapp3.1\O.runtimeconfig.dev.json
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\O\bin\Debug\netcoreapp3.1\O.dll
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\O\bin\Debug\netcoreapp3.1\O.pdb
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\O\obj\Debug\netcoreapp3.1\O.csproj.AssemblyReference.cache
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\O\obj\Debug\netcoreapp3.1\O.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\O\obj\Debug\netcoreapp3.1\O.AssemblyInfoInputs.cache
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\O\obj\Debug\netcoreapp3.1\O.AssemblyInfo.cs
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\O\obj\Debug\netcoreapp3.1\O.csproj.CoreCompileInputs.cache
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\O\obj\Debug\netcoreapp3.1\O.dll
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\O\obj\Debug\netcoreapp3.1\O.pdb
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\O\obj\Debug\netcoreapp3.1\O.genruntimeconfig.cache

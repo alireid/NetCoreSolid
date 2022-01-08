@@ -1,0 +1,18 @@
+/Users/allyreid/Desktop/NetCoreSolid/L/obj/Debug/netcoreapp3.1/L.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allyreid/Desktop/NetCoreSolid/L/obj/Debug/netcoreapp3.1/L.AssemblyInfoInputs.cache
+/Users/allyreid/Desktop/NetCoreSolid/L/obj/Debug/netcoreapp3.1/L.AssemblyInfo.cs
+/Users/allyreid/Desktop/NetCoreSolid/L/obj/Debug/netcoreapp3.1/L.csproj.CoreCompileInputs.cache
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\L\bin\Debug\netcoreapp3.1\L.exe
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\L\bin\Debug\netcoreapp3.1\L.deps.json
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\L\bin\Debug\netcoreapp3.1\L.runtimeconfig.json
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\L\bin\Debug\netcoreapp3.1\L.runtimeconfig.dev.json
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\L\bin\Debug\netcoreapp3.1\L.dll
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\L\bin\Debug\netcoreapp3.1\L.pdb
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\L\obj\Debug\netcoreapp3.1\L.csproj.AssemblyReference.cache
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\L\obj\Debug\netcoreapp3.1\L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\L\obj\Debug\netcoreapp3.1\L.AssemblyInfoInputs.cache
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\L\obj\Debug\netcoreapp3.1\L.AssemblyInfo.cs
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\L\obj\Debug\netcoreapp3.1\L.csproj.CoreCompileInputs.cache
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\L\obj\Debug\netcoreapp3.1\L.dll
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\L\obj\Debug\netcoreapp3.1\L.pdb
+C:\Users\Ali Reid\Dropbox\NetCoreSolid\L\obj\Debug\netcoreapp3.1\L.genruntimeconfig.cache
